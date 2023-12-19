@@ -1,4 +1,4 @@
-package at.ac.htl.leonding.bhitm3;
+package at.ac.htl.leonding.bhitm3.main;
 
 public class Card {
     private int id;

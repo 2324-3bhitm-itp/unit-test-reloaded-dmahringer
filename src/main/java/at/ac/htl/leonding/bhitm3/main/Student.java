@@ -1,4 +1,4 @@
-package at.ac.htl.leonding.bhitm3;
+package at.ac.htl.leonding.bhitm3.main;
 
 import java.util.Objects;
 
@@ -31,5 +31,7 @@ public class Student extends Person {
         Student student = (Student) o;
         return Objects.equals(studentID, student.studentID);
     }
+
+    
 
 }
